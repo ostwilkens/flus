@@ -1,6 +1,6 @@
 {
     "name": "flus",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "description": "Fluent styling API for React Components",
     "repository": "ostwilkens/flus",
     "main": "index.js",
