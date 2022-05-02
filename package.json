@@ -1,0 +1,21 @@
+{
+    "name": "flus",
+    "version": "0.1.0",
+    "description": "Fluent styling API for React Components",
+    "repository": "ostwilkens/flus",
+    "main": "index.js",
+    "keywords": [
+        "flus",
+        "fluent",
+        "styling",
+        "builder",
+        "react",
+        "css",
+        "jss",
+        "styled",
+        "functional"
+    ],
+    "dependencies": {
+        "@emotion/react": "^11.9.0"
+    }
+}
