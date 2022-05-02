@@ -520,6 +520,11 @@ export class ElementBuilder extends Function {
   }
 }
 
-export const base = (elementType) => new ElementBuilder(elementType)
+export const el = (elementType) => new ElementBuilder(elementType)
 
-export default { base }
+export const Div = el("div")
+export const Input = el("input")
+export const A = el("a")
+export const Button = el("Button")
+
+export default { el, Div, Input, A, Button }
